@@ -1,0 +1,21 @@
+{
+  "neutral/1600": "141414",
+  "neutral/100": "F5F5F5",
+  "neutral/150": "F7F5F2",
+  "neutral/200": "F0F0F0",
+  "neutral/300": "EBEBEB",
+  "neutral/400": "E6E6E6",
+  "neutral/500": "CCCCCC",
+  "neutral/600": "B3B3B3",
+  "neutral/700": "8A8A8A",
+  "neutral/800": "666666",
+  "neutral/900": "4D4D4D",
+  "neutral/1000": "333333",
+  "neutral/1100": "292929",
+  "neutral/1200": "242424",
+  "neutral/1300": "1F1F1F",
+  "neutral/1400": "1C1C1C",
+  "neutral/1500": "171717",
+  "red": "FF0000",
+  "black": "000000"
+}
